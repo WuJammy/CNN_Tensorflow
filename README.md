@@ -1,6 +1,6 @@
 # CNN_Tensorflow
 
-1.請將檔案解壓縮後，將"cnn"這個資料夾放於C槽
+1.將"cnn"這個資料夾放於C槽
 
 2.請檢查python的環境下，是否已安裝numpy,tensorflow(1.14.0版),PIL ,random,pandas 這些套件
 
